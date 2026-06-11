@@ -1,0 +1,17 @@
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "juan",
+  "mensaje": "Hola comunidad"
+}
+
+
+### Ejemplo incidencia
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Se presenta un hundimiento considerable en el pavimento que afecta el tránsito vehicular y pone en riesgo la seguridad de los motociclistas."
+}

@@ -1,0 +1,16 @@
+La recepción de información estructurada mediante formatos 
+como JSON permite que los sistemas informáticos procesen, 
+validen y clasifiquen las solicitudes ciudadanas de forma 
+automática y sin intervención humana inmediata. Al organizar 
+los datos en campos definidos como categorías, descripciones 
+y coordenadas, las plataformas pueden canalizar cada reporte 
+directamente al departamento o entidad competente, reduciendo 
+drásticamente los tiempos de respuesta. Además, esta 
+estandarización elimina la ambigüedad del lenguaje natural 
+y facilita el almacenamiento en bases de datos relacionales 
+o no relacionales. De este modo, se vuelve viable la 
+creación de tableros de control y análisis estadísticos 
+en tiempo real sobre las problemáticas comunitarias. 
+En última instancia, la estructuración de los datos optimiza 
+los recursos públicos y transforma el flujo de información 
+en acciones gubernamentales precisas y medibles.

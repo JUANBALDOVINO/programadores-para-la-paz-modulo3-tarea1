@@ -1,0 +1,6 @@
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Se presenta un hundimiento considerable 
+  en el pavimento que afecta el tránsito vehicular y pone 
+  en riesgo la seguridad de los motociclistas."
+}
